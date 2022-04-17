@@ -19,10 +19,10 @@ The re-analysis of the school data shows that:
 
 ## Challenge Summary
 Analysis prior to nullifying 9th Grade Thomas High School scores:
-![Analysis prior to nullifying 9th Grade Thomas High School scores:]https://github.com/michael999999999/School_District_Analysis/blob/main/Resources/PCS_top_schools.png
+![Analysis prior to nullifying 9th Grade Thomas High School scores:](https://github.com/michael999999999/School_District_Analysis/blob/main/Resources/PCS_top_schools.png)
 
 Analysis after nullifying 9th Grade Thomas High School scores:
-![Analysis after nullifying 9th Grade Thomas High School scores:]https://github.com/michael999999999/School_District_Analysis/blob/main/Resources/PCS_Challenge_top_schools.png
+![Analysis after nullifying 9th Grade Thomas High School scores:](https://github.com/michael999999999/School_District_Analysis/blob/main/Resources/PCS_Challenge_top_schools.png)
 
 As evidenced by the above photos, upon invalidating the 9th grade scores from Thomas High school several passing percentages and average scores were lowered from the original analysis: overall passing percentage, math passing percentage, reading passing percentage, and average math score. Interestingly, average reading scores actually increased.
 

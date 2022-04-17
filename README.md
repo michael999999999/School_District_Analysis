@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-A local school board is requesting an analysis of school data within it's district. Upon review of the data, concerns were raised regarding academic dishonesty with regard to 9th graders from Thomas High School, and a subsequent re-analysis of the data was performed.
+A local school board has requested an analysis of school data within it's district. Upon review of the data, concerns were raised regarding academic dishonesty with regard to 9th graders from Thomas High School, and a subsequent re-analysis of the data was performed.
 
 ## Resources
 - Data Source: schools_complete.csv, students_complete.csv, clean_students_complete.csv, missing_grades.csv
